@@ -12,7 +12,7 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 
 * github link: https://github.com/davisvarkey/sentiment_based_product_recommendation
 
-* Heroku (Application is Live): https://retail-product-recommend-app-f7d438c6b0fe.herokuapp.com/predict
+* Heroku (Application is Live): https://retail-product-recommend-app-f7d438c6b0fe.herokuapp.com
 
 ### Built with
 
